@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-/*  Mia Walsh, mwalsh27, 119691915, CMSC132 - 0303 
+/*  Mia Walsh, CMSC132 - 0303 
  * 
  * The LarryGraph class holds information about the vertices in a directed
  * graph where edges are weighted. LarryGraphs are only allowed at most
